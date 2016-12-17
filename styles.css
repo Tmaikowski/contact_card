@@ -1,0 +1,37 @@
+#container {
+    background-color: grey;
+    width: 970px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+form {
+    display: inline-block;
+    width: 300px;
+    background-color: white;
+}
+
+label {
+    display: block;
+    margin: 0 10px 10px 0;
+}
+
+#desc_box {
+    display: block;
+    margin: 10px 0;
+}
+
+#contact_card_container {
+    display: inline-block;
+    width: 400px;
+    vertical-align: top;
+    margin: 10px 30px;
+    background-color: white;
+}
+
+.contact_box {
+    text-align: center;
+    margin: 5px;
+    background: lightgrey;
+    border: 1px solid black;
+}
